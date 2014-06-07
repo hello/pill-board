@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=Mopq.SchDoc|Designator=Bluetooth|SchDesignator=Bluetooth|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Mopq.SchDoc|Designator=Memory|SchDesignator=Memory|FileName=MEM.SchDoc|SymbolType=Normal|RawFileName=MEM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Mopq.SchDoc|Designator=Motion|SchDesignator=Motion|FileName=IMU.SchDoc|SymbolType=Normal|RawFileName=IMU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Mopq.SchDoc
